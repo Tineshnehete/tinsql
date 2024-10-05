@@ -1,36 +1,74 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Tinsql
+
+Tinsql is an online SQL editor designed to help users write, execute, and manage SQL queries efficiently. This README provides an overview of the project, setup instructions, and guidelines for contributors.
+
+## Features
+
+- Execute SQL queries online
+- Syntax highlighting
+- Query history
+- Export query results
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Node.js
+- Yarn
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Installation
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/yourusername/tinsql.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd tinsql
+    ```
+3. Install dependencies:
+    ```sh
+    yarn install
+    ```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Running the Application
 
-## Learn More
+1. Start the development server:
+    ```sh
+    yarn start
+    ```
+2. Open your browser and navigate to `http://localhost:3000`.
 
-To learn more about Next.js, take a look at the following resources:
+## Usage
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Enter your SQL query in the editor.
+2. Click the "Run" button to execute the query.
+3. View the results in the output section.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Contributing
 
-## Deploy on Vercel
+We welcome contributions! Please follow these steps:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Fork the repository.
+2. Create a new branch:
+    ```sh
+    git checkout -b feature-branch
+    ```
+3. Make your changes and commit them:
+    ```sh
+    git commit -m "Description of changes"
+    ```
+4. Push to the branch:
+    ```sh
+    git push origin feature-branch
+    ```
+5. Open a pull request.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+For any questions or feedback, please open an issue on GitHub.
+
