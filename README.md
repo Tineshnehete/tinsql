@@ -41,9 +41,14 @@ Tinsql is an online SQL editor designed to help users write, execute, and manage
 
 ## Usage
 
-1. Enter your SQL query in the editor.
-2. Click the "Run" button to execute the query.
-3. View the results in the output section.
+### Browser-Based Terminal
+
+Tinsql includes a browser-based terminal for executing SQL queries directly from your web browser. This feature allows you to interact with your database without needing to install any additional software.
+
+- Open the terminal by clicking on the terminal icon.
+- Type your SQL commands in the terminal.
+- Press "Enter" to execute the commands and see the results instantly.
+
 
 ## Contributing
 
