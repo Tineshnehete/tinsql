@@ -5,9 +5,9 @@ Tinsql is an online SQL editor designed to help users write, execute, and manage
 ## Features
 
 - Execute SQL queries online
-- Syntax highlighting
-- Query history
-- Export query results
+- Syntax highlighting ( 🔴 )
+- Query history ( 🔴 )
+- Export query results ( 🔴 )
 
 ## Getting Started
 
