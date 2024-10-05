@@ -20,7 +20,7 @@ Tinsql is an online SQL editor designed to help users write, execute, and manage
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/tinsql.git
+    git clone https://github.com/Tineshnehete/tinsql.git
     ```
 2. Navigate to the project directory:
     ```sh
